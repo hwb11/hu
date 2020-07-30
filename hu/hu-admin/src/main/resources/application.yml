@@ -12,6 +12,8 @@ logging:
   config: classpath:logback-spring.xml
 
 spring:
+  profiles:
+    active: dev
   servlet:
     multipart:
       maxFileSize: "1000MB"
