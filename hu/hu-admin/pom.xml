@@ -60,7 +60,7 @@
                     </execution>
                 </executions>
                 <configuration><!-- 指定该Main Class为全局的唯一入口 -->
-                    <mainClass>com.zy.intelligentdevice.admin.Application</mainClass>
+                    <mainClass>com.zy.hu.admin.Application</mainClass>
                 </configuration>
             </plugin>
         </plugins>

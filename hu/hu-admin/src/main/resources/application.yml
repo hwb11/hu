@@ -6,6 +6,9 @@ server:
     mime-types: application/json
   tomcat:
     max-connections: 30000
+  servlet:
+    context-path: /hngyywglpt
+    uri-encoding: UTF-8
 
 
 logging:

@@ -1,5 +1,8 @@
 package com.zy.hu.admin;
 
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
 /**
  * @ClassName testX
  * @Decsription
@@ -7,9 +10,7 @@ package com.zy.hu.admin;
  * @Date 2020/8/5
  **/
 
-import org.checkerframework.checker.units.qual.C;
-import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.RequestMapping;
+
 
 @Controller
 public class testX {
