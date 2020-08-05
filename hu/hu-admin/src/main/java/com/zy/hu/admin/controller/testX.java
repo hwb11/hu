@@ -1,7 +1,8 @@
-package com.zy.hu.admin;
+package com.zy.hu.admin.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * @ClassName testX
@@ -13,6 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 
 @Controller
+@ResponseBody
 public class testX {
 
     @RequestMapping(value = "/a")
