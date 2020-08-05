@@ -7,7 +7,7 @@ server:
   tomcat:
     max-connections: 30000
   servlet:
-    context-path: /hngyywglpt
+    context-path: /admin
     uri-encoding: UTF-8
 
 
