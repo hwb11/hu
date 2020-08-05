@@ -47,7 +47,7 @@
     </dependencies>
 
     <build>
-     <!--   <finalName>hu-admin</finalName>-->
+      <finalName>hu-admin</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
