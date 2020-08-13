@@ -32,7 +32,7 @@ spring:
     checkTemplateLocation: false
   log:
     application: admin
-    base: /home/admin/logs
+    base: /home/admin/log
     atcionPrefix: v3
 
 
